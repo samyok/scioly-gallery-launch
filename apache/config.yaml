@@ -1,0 +1,4 @@
+hostname: vps-scioly-gallery.samyok.us
+url: http://localhost:80
+logfile: ./cloudflared.log
+
